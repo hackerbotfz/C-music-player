@@ -1,0 +1,1 @@
+The folder contains the songs folder for the project but can be used to play from any song folder
